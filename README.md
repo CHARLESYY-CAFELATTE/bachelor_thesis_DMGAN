@@ -19,7 +19,7 @@ train中不少参数都可以接受调整，继续训练也注意改改代码因
 
 用到的包：torch，pillow，opencv，numpy
 
-这个代码好像没bug
+这个代码好像没bug，python train.py就可以玩了，enjoy！
 
 接口命名极其随意，开心就好哈哈哈
 
