@@ -27,4 +27,8 @@ train中不少参数都可以接受调整，继续训练也注意改改代码因
 
 比论文里调薄了网络层，不过也能用
 
+checkpoints权重没法上传，请移步链接: https://pan.baidu.com/s/14hxTervo6z6LkMsaZtbWxQ  密码: bpk2
+
+放在根目录下就好，或者可以自己训练玩玩哈哈
+
 以上
